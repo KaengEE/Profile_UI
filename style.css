@@ -37,14 +37,14 @@ body {
   height: 36%;
   width: 100%;
   border-radius: 24px 24px 0 0;
-  background-color: #4070f4;
+  background-color: #ff5e00;
 }
 .image {
   position: relative;
   height: 150px;
   width: 150px;
   border-radius: 50%;
-  background-color: #4070f4;
+  background-color: #ff5e00;
   padding: 3px;
   margin-bottom: 10px;
 }
@@ -86,7 +86,7 @@ body {
   width: 34px;
   border-radius: 50%;
   margin: 0 8px;
-  background-color: #4070f4;
+  background-color: #ff5e00;
   text-decoration: none;
   color: white;
 }
@@ -104,12 +104,12 @@ body {
   border-radius: 24px;
   margin: 0 10px;
   padding: 8px 24px;
-  background-color: #4070f4;
+  background-color: #ff5e00;
   cursor: pointer;
   transition: all 0.3 ease;
 }
 .buttons .button:hover {
-  background-color: #0e4bf1;
+  background-color: #ff5100;
   transform: scale(0.98);
 }
 .analytics {
